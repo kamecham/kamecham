@@ -7,7 +7,7 @@
 ## 💻 Code
 ### 🖊️ Study
 ### 🏠 my environment
-- .vimrc
+- [.vimrcの設定](https://github.com/kamecham/my_vimrc)
 - .zshrc
 - 環境構築手順 for MAC
 - Latex
