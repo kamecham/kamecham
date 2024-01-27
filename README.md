@@ -7,13 +7,13 @@
 ## 💻 Code
 ### 🖊️ Study
 ### 🏠 my environment
-- [.vimrcの設定](https://github.com/kamecham/my_vimrc)
-- .zshrc
-- 環境構築手順 for MAC
-- Latex
-- VSCODE
-- Python
-- etc.
+- [.vimrcの設定](https://github.com/kamecham/my_vimrc) (private)
+- .zshrc (private)
+- 環境構築手順 for MAC (private)
+- Latex (private)
+- VSCODE (private)
+- Python (private)
+- etc. (private)
 ## 😺 Tips
 ### howto
 
