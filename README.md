@@ -1,6 +1,6 @@
 # 😄 I am ...
  I’m a phd. student in a field of Condense matter theory in Japan.  
- This is documenta and codea storage area included personal, research, and public use.
+ This is documents and codes storage area included personal, research, and public use.
  
 ## 📕 Document
 
