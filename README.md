@@ -3,7 +3,8 @@
  This is documents and codes storage area included personal, research, and public use.
  
 ## 📕 Document
-
+- [paper_2025_DW-SC](https://github.com/kamecham/paper_2025_DW-SC)(private)
+- [ph.d thesis repo](https://github.com/kamecham/phd_thesis)(private)
 ## 💻 Code
 ### 🖊️ Study
 ### 🏠 my environment
