@@ -7,6 +7,7 @@
 - [ph.d thesis repo](https://github.com/kamecham/phd_thesis)(private)
 ## 💻 Code
 ### 🖊️ Study
+- [1T'-TMDC script](https://github.com/kamecham/1t_prime_tmdc_script/tree/main)(private)
 ### 🏠 my environment
 - [.vimrcの設定](https://github.com/kamecham/my_vimrc) (private)
 - .zshrc (private)
