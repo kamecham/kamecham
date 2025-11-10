@@ -4,6 +4,7 @@
  
 ## 📕 Document
 - [paper_2025_DW-SC](https://github.com/kamecham/paper_2025_DW-SC)(private)
+- [paper_2025 1T_prime TMDC](https://github.com/kamecham/paper_2025_1T_prime_TMDC)(private)
 - [ph.d thesis repo](https://github.com/kamecham/phd_thesis)(private)
 ## 💻 Code
 ### 🖊️ Study
