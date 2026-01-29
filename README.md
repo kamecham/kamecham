@@ -9,6 +9,7 @@
 ## 💻 Code
 ### 🖊️ Study
 - [1T'-TMDC script](https://github.com/kamecham/1t_prime_tmdc_script/tree/main)(private)
+- [2D-Rice-Mele-model_Domain wall_script](https://github.com/kamecham/2D_rice_mele_model_domain_wall)
 ### 🏠 my environment
 - [.vimrcの設定](https://github.com/kamecham/my_vimrc) (private)
 - .zshrc (private)
