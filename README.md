@@ -9,8 +9,9 @@
 ## 💻 Code
 ### 🖊️ Study
 - [1T'-TMDC script](https://github.com/kamecham/1t_prime_tmdc_script/tree/main)(private)
-- [2D-Rice-Mele-model Domain wall script](https://github.com/kamecham/2D_rice_mele_model)(private)こちらが論文用
-- [2D-Rice-Mele-model_Domain wall_script](https://github.com/kamecham/2D_rice_mele_model_domain_wall)(private)
+- [2D-Rice-Mele-model Domain wall script](https://github.com/kamecham/2D_rice_mele_model_4atoms)(private) 2D rice mele model/single domain/
+- [2D-Rice-Mele-model Domain wall script](https://github.com/kamecham/2D_rice_mele_model)(private) 2D rice mele model/multi domain/
+- [2D-Rice-Mele-model_Domain wall_script](https://github.com/kamecham/2D_rice_mele_model_domain_wall)(private) 何のためか忘れた確認すること
 ### 🏠 my environment
 - [.vimrcの設定](https://github.com/kamecham/my_vimrc) (private)
 - .zshrc (private)
