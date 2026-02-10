@@ -9,7 +9,7 @@
 ## 💻 Code
 ### 🖊️ Study
 - [1T'-TMDC script](https://github.com/kamecham/1t_prime_tmdc_script/tree/main)(private)
-- [1D-Rice-Mele-model script]([https://github.com/kamecham/2D_rice_mele_model_4atoms](https://github.com/kamecham/1d_rice_mele_model))(private) 1D rice mele model
+- [1D-Rice-Mele-model script](https://github.com/kamecham/1d_rice_mele_model))(private) 1D rice mele model
 - [2D-Rice-Mele-model single Domain script](https://github.com/kamecham/2D_rice_mele_model_4atoms)(private) 2D rice mele model/single domain/
 - [2D-Rice-Mele-model multi Domain script](https://github.com/kamecham/2D_rice_mele_model)(private) 2D rice mele model/multi domain/
 - [2D-Rice-Mele-model_Domain wall_script](https://github.com/kamecham/2D_rice_mele_model_domain_wall)(private) 何のためか忘れた確認すること
