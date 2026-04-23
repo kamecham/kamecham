@@ -14,6 +14,7 @@
 - [2D-Rice-Mele=model energy band structure](https://github.com/kamecham/2D_rice_mele_model_band)(private)
 - [2D-Rice-Mele-model single Domain script](https://github.com/kamecham/2D_rice_mele_model_4atoms)(private) 2D rice mele model/single domain/
 - [2D-Rice-Mele-model multi Domain script](https://github.com/kamecham/2D_rice_mele_model)(private) 2D rice mele model/multi domain/
+- [2D-Rice-Mele-model local current script](https://github.com/kamecham/2D_rice_mele_model_local_current)(private) 2D rice mele model/local current
 - [2D-Rice-Mele-model_Domain wall_script](https://github.com/kamecham/2D_rice_mele_model_domain_wall)(private) 何のためか忘れた確認すること
 ### 🏠 my environment
 - [.vimrcの設定](https://github.com/kamecham/my_vimrc) (private)
